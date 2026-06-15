@@ -6,7 +6,7 @@ Built entirely using **HTML, CSS, and JavaScript**, the application provides an 
 
 ## 🌐 Live Demo
 
-🚀 **Try ScheduleCraft Here:**  [
+🚀 **Try ScheduleCraft Here:**  
 https://Amber-Gupta0134.github.io/ScheduleCraft_Micro_Project/
 
 ## 🚀 Features
